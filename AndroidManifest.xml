@@ -1644,6 +1644,8 @@
             android:theme="@style/CryptKeeperBlankTheme"
         />
 
+        <activity android:name=".paranoid.Halo" />
+
         <activity android:name=".CryptKeeperConfirm$Blank"
             android:immersive="true"
             android:launchMode="singleTop"
