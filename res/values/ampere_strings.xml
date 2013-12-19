@@ -16,6 +16,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     
     <!-- About phone screen,  setting option name-->
+    <string name="ampere_rom">AmpereRom</string>
+    <string name="ampere_rom_summary">AmperificSuperKANG Project</string>
     <string name="mod_version">Ampere version</string>
     <string name="mod_version_default">Unknown</string>
     
